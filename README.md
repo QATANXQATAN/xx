@@ -2,7 +2,7 @@
 git rm --cached -r .
 git add -A
 git status
-git commit -m ""
+git commit -m "update"
 git push -f
 
 ```
@@ -30,7 +30,7 @@ git add -A
 ```
 
 ```
-git commit -m ""
+git commit -m "update"
 
 ```
 
